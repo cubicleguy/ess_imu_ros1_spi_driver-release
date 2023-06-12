@@ -23,5 +23,5 @@ tracks:
     release_tag: :{version}
     ros_distro: melodic
     vcs_type: git
-    vcs_uri: https://github.com/cubicleguy/ess_imu_ros1_spi_driver
+    vcs_uri: https://github.com/cubicleguy/ess_imu_ros1_spi_driver.git
     version: :{auto}
